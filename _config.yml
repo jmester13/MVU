@@ -1,5 +1,5 @@
 # site settings
-title: Forty
+title: MVU
 subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
@@ -43,4 +43,4 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 
-baseurl: /MVU
+baseurl: jmester13.github.io/
